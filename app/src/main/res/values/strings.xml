@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LayoutLinear</string>
+    <string name="textView">Bienvenido</string>
+    <string name="editTextText">Nombre</string>
+    <string name="editTextText2">Apellido</string>
+    <string name="button">Enviar</string>
+    <string name="hintName">Escribir nombre</string>
+    <string name="hintLastName">Escribir apellido</string>
+</resources>
